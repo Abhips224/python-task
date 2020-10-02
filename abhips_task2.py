@@ -7,7 +7,7 @@ y=''
 word=[]
 
 print("welcome to the game")
-clubname=["avc","emotica","souls","vibranz","pixcels"]
+clubname=["avc","emotica","souls","vibranz","pixels"]
 
 club=random.choice(clubname)
 a=len(club)
